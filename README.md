@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Esteban
-- 🎸 Musician
 - 📫 How to reach me: contacto.esteban368@gmail.com
 
 <!---
